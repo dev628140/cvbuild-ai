@@ -2,7 +2,7 @@
 
 ### ❤️ Support
 
-If you find this project helpful, please consider giving this repository a ⭐️ on GitHub, and don't forget to **like**, **share**, and **subscribe** to support our journey!
+If you find this project helpful, please consider giving this repository a ⭐️ on GitHub
 
 ## 📌 Project Overview
 
@@ -82,4 +82,3 @@ To view all packages and dependencies used, check out the [Versions](versions/ve
 
 ---
 
-Thank you for being part of this journey, and happy coding! 😊

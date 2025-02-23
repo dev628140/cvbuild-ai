@@ -7,15 +7,7 @@ export default function Home() {
   return (
     <div className="w-full">
       <div className="hero-section w-full min-h-screen">
-        <div className="w-full flex flex-col items-center justify-center py-10 max-w-4xl mx-auto">
-          <div className="rounded-full flex items-center font- font-medium gap-1 text-sm h-auto p-2 bg-muted max-w-80">
-            <div className="p-2 h-5 shrink-0 flex items-center text-xs justify-center text-white bg-primary rounded-full">
-              New
-            </div>
-            Subscribe to Techwithemma
-            <ChevronRight className="w-4 h-4" />
-          </div>
-
+        <div className="w-full flex flex-col items-center justify-center py-10 max-w-4xl mx-auto">  
           <div className="flex flex-col mt-5 items-center text-center">
             <h1 className="text-6xl font-black">
               <p>Get dream jobs with our</p>
@@ -41,10 +33,7 @@ export default function Home() {
                 className="h-12  border-primary text-primary text-base font-medium min-w-32"
                 asChild
               >
-                <a className="flex items-center gap-1">
-                  <Video size="17px" />
-                  Watch video
-                </a>
+                
               </Button>
             </div>
           </div>
